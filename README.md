@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nothing to see here
+My side project:
 
 ![Hiking Man](https://github.com/shunnokw/jw7.dev/blob/master/assets/img/projects/proj-1/promo.png)
 ![Laceuphk](https://github.com/shunnokw/jw7.dev/blob/master/assets/img/projects/proj-2/promo.png)
