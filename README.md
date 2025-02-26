@@ -4,7 +4,6 @@ My side project (Not open sourced):
 You can find my open sourced project in pined section below.
 
 ![Hiking Man](https://github.com/shunnokw/jw7.dev/blob/master/assets/img/projects/proj-1/promo.png)
-![Laceuphk](https://github.com/shunnokw/jw7.dev/blob/master/assets/img/projects/proj-2/promo.png)
 
 <!--
 **shunnokw/shunnokw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
